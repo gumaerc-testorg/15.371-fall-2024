@@ -5,7 +5,7 @@ draft: false
 title: Video Modules
 uid: 33ff81fb-0b04-4a38-bec0-060ac3912238
 ---
-In the following short video series, Prof. Perez-Breva gives an overview of Innovation Team (iTeams) and explains how the iTeams approach differs from traditional entrepreneurship models. The full series runs less than an hour total, and you can also jump directly to the [YouTube Playlist on the OCW channel.](https://www.youtube.com/playlist?list=PLUl4u3cNGP63FBm4EY4n6fh8dcUAnetzi)
+In the following short video series, Prof. Perez-Breva gives an overview of Innovation Team (iTeams) and explains how the iTeams approach differs from traditional entrepreneurship models. The full series runs less than an hour total, and you can also jump directly to the {{% resource_link "c5d0a70c-be33-4af3-8b24-965345db8b57" "YouTube Playlist on the OCW channel." %}}
 
 {{< resource uuid="3a40663d-558c-4461-8225-ece588917310" >}}
 {{< resource uuid="628e833a-d972-424e-b38a-4dad2c1c2840" >}}

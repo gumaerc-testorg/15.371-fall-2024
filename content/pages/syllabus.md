@@ -48,7 +48,7 @@ Throughout the semester, there are various links to readings, lecture notes, and
 
 #### Course Text
 
-- *Innovating: A Doer’s Manifesto for Starting from a Hunch, Prototyping Problems, Scaling Up, and Learning to Be Productively Wrong* by Luis Perez-Breva. Cambridge, MA: MIT Press, 2017. ISBN: 9780262536127. \[[MIT Press](https://mitpress.mit.edu/9780262536127/)\]
+- *Innovating: A Doer’s Manifesto for Starting from a Hunch, Prototyping Problems, Scaling Up, and Learning to Be Productively Wrong* by Luis Perez-Breva. Cambridge, MA: MIT Press, 2017. ISBN: 9780262536127. \[{{% resource_link "a3b72d3e-ea90-40b6-b888-d21f98634b9c" "MIT Press" %}}\]
 
 ### Presentations
 

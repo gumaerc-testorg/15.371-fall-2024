@@ -7,8 +7,8 @@ file_size: 90670
 file_type: image/jpeg
 image_metadata:
   caption: 'Visualization of the anatomy of a hunch from Prof. Luis Perez-Breva''s
-    book, [*Innovating: A Doers Manifesto*](https://direct.mit.edu/books/book/4089/InnovatingA-Doer-s-Manifesto-for-Starting-from-a).
-    (Used by permission of the instructor.)'
+    book, {{% resource_link "aea20dca-19c2-43f2-bc04-d99ff86ef67d" "*Innovating: A
+    Doers Manifesto*" %}}. (Used by permission of the instructor.)'
   credit: ''
   image-alt: A hand-drawn conceptual greyscale illustration with central looping form
     and stylized symbolic images and people along the way indicating a path or journey

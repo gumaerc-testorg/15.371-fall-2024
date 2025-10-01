@@ -17,4 +17,4 @@ In ITeams, you’ll put to the test some deeply held beliefs about entrepreneurs
 
 ## Video Introduction and Modules
 
-Prof. Perez-Breva gives an overview of Innovation Teams (iTeams) and explains how the iTeams approach differs from traditional entrepreneurship models in [this series of short videos](https://ocw-studio.odl.mit.edu/sites/innovation-teams/content/33ff81fb-0b04-4a38-bec0-060ac3912238/).
+Prof. Perez-Breva gives an overview of Innovation Teams (iTeams) and explains how the iTeams approach differs from traditional entrepreneurship models in {{% resource_link "e6b468ec-e9f9-4291-8d28-6f868d4d4277" "this series of short videos" %}}.
