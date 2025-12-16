@@ -23,6 +23,6 @@ video_metadata:
   source: ''
   video_speakers: ''
   video_tags: ''
-  youtube_description: ''
+  youtube_description: Test description update
   youtube_id: QGOIEuZEsn0
 ---
